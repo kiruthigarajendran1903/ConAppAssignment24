@@ -1,0 +1,11 @@
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppAssignment24.exe.config
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppAssignment24.exe
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppAssignment24.pdb
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppEmployeeLib.dll
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\bin\Debug\ConAppEmployeeLib.pdb
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.AssemblyReference.cache
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.CoreCompileInputs.cache
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.csproj.CopyComplete
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.exe
+D:\SimpliLearn\Day-21\ConAppAssignment24\ConAppAssignment24\obj\Debug\ConAppAssignment24.pdb
